@@ -1,0 +1,5 @@
+E:\GitHub\cs_1.8_AvisoFesta1\bin\release\net5.0\publish\cs_1.8_AvisoFesta1.exe
+E:\GitHub\cs_1.8_AvisoFesta1\bin\release\net5.0\publish\cs_1.8_AvisoFesta1.dll
+E:\GitHub\cs_1.8_AvisoFesta1\bin\release\net5.0\publish\cs_1.8_AvisoFesta1.deps.json
+E:\GitHub\cs_1.8_AvisoFesta1\bin\release\net5.0\publish\cs_1.8_AvisoFesta1.runtimeconfig.json
+E:\GitHub\cs_1.8_AvisoFesta1\bin\release\net5.0\publish\cs_1.8_AvisoFesta1.pdb
